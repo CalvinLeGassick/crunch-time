@@ -1,0 +1,739 @@
+e33cac2055b4a943e64a7fc37a3d2ca3    InsurTech
+7e92ba555c1bffd22d43ae54965f86f7    Association
+75e2efe6f9012137da85cd4f5627295c    Military
+8eb1f507dc7315d6cd1836f20a0e7318    CivicTech
+0bb56d774cd59ed3079104897d35cd9c    Desktop Apps
+b9c920c197efc9d2e300522f5e1cdaf2    GovTech
+48d51286b254c626b5cd2357ef5bf2bc    Presentation Software
+4ce2baa5af58d411d6355144a876881d    Mining
+38029a58e0d21249883f7c8da9db32b7    Consumer Goods
+b0e95e5d857ed5617c34133445cff0f0    Parks
+d1851d7c8df1a9ac96cb906b662a7ac7    Warehousing
+61e3a9dda7b80791be7242b72890fc01    Marine Transportation
+bf3480365cb24d95ec919ac7d1a27f94    Janitorial Service
+758d848a708f1c6683889eb6af660417    Delivery Service
+ac262c26a81748f71e933b2530a5e51d    Freight Service
+88eb1c13adf58728df290590a0ce0ab8    Travel Accommodations
+897af4838963a2ab16ff2b3489106f0e    Autonomous Vehicles
+176f72b53733b98e7ccbdb49dc29ed4a    Wood Processing
+7a6d8aad7b87534a7f5dc1766c2cd33f    Management Consulting
+29aa8efadb2e01962249b4cdf553b519    Environmental Consulting
+d1fa0ffca463d8d82f7f55ed33772c09    Plastics and Rubber Manufacturing
+dac5cf7f174b40c598955189aadb463d    Outpatient Care
+13c69ae7c5ec69b4a48cf19ab1071b21    Nursing and Residential Care
+6ea20ef4dd128a46356522dab9c8a7d4    Snack Food
+e4f60985e6049faa32262df779f0d198    Catering
+1680f5c49050f7bf0a374b929f68bd75    Food Trucks
+3343a3712b3784907f759b6545d445c4    Distillery
+20f6eb6ee7d4b0b0baea4285d83c1a47    Contests
+d7655f5ed6184fbb94a38a13cc374ff8    Museums and Historical Sites
+387a8f7615f604db3cbb4e3f85a194f2    Travel Agency
+8e46de2155610114eacccae29ea61767    Recipes
+5e259e7ca263836e0c9270bc5219d6cf    Recreational Vehicles
+b933df305110493f88f4120979a1c00b    Social Assistance
+a640c3d9c6e7c184e04ae87f76092f50    Casino
+cda62d12823c4d74ec6c6ac78d705ea0    Tour Operator
+301b97f06284b2f26457848b4e10828d    Seafood
+1101e2fdfb0608a8956797652bbbe2cf    Wired Telecommunications
+2a554cd3018e9350a7e34e7d4c76be38    Amusement Park and Arcade
+142332cc29bca56c349889a6c1a04ad3    Ports and Harbors
+c1179afb371848f5991fc001aa32eb18    Laundry and Dry-cleaning
+688d1db00708637a3973b1ca96ae2b9c    Paper Manufacturing
+3d5fed8619318979980cccd11c500964    Timber
+cdb5753f53c4c62c2afd1e8d9c58cbf3    Machinery Manufacturing
+b5cdd7ca83f5f44aee85955a43b74d0a    Confectionery
+ba32af71dbcaceba814e5a3947c4ea31    Hydroponics
+6f70fb36d6a318d2f09dccdd6bbf91e0    Industrial Manufacturing
+d9ee28219f88c0cfe775a34db739e9ec    Bakery
+04b9b5659930dbadd021c3ebdc28caa9    Foundries
+4acdae6a217fbe4d5f3d6955756b92d5    Winery
+ab4e56e5a4393a999a2a90af9b88326c    Shopping Mall
+fdce94bfc29d00bd29259c07fa487243    Home Health Care
+ebc74b6813678a99e551c182d4457e87    Packaging Services
+889f41bc32c4033dfcda3b34ea30a42e    Office Administration
+1c85a4fd329d7326161750d98f72a6d1    Trade Shows
+08d7bc9ade67b81c076ebc59f496ac67    Credit Bureau
+5ecb5545454b9dca6eb31ea48692c3c4    Horticulture
+5330335e33c9561367d8cac000930acf    Equestrian
+9c5dc6d570fcb0b1106c42d0326e8a37    Forestry
+c5f45ca64a1bddf7ab5db4a9f83f831e    Housekeeping Service
+c051be6951edd3ac44ba67dc5d9a4b3f    Facilities Support Services
+d207fa81f60ff966556492c133564737    Extermination Service
+1ab07b3d079814f5011959cbc3408f8e    Document Preparation
+13a601f02ad673399fc929063b20dfb7    Collection Agency
+c8f25333db94e96e5a93ac4912be67a1    Building Maintenance
+42bf7b8c7f0f3581f6d0ed135afd8278    Online Games
+593534eb70967307deae0206fa508e13    Staffing Agency
+008acc9a35f8f250776c1cb1a2961b59    Flash Sale
+b3b08a449f899e686f4a04365b8636e0    Commercial
+3278dd739e1726cd11ef1d5b99a6cea4    Pet
+2df4b8215cd541f75a0e6fc0feab2664    Service Industry
+4e20225b89bff189d197d7b96ed0c245    Secondary Education
+9bff86a30dc814209a633b86f51d2f36    Digital Marketing
+3277779727600d5fbe94e6260845925b    SEM
+2dc3618d0d9f92808a8f58eca90d6198    Generation Y
+70b41afa2761ea9e86c40dfa312bedf1    Sales
+f7df428deb214d9960d53cb8ed258b9e    Gift Registry
+e95caf6b205f3839f3c26bb796012cd7    Pollution Control
+3a2e9f357845a88101d32852a3c6a2f9    Precious Metals
+7efa3b6d0ad33b0c153c94e566e5adfd    Call Center
+dd51c0d1b95389b64006156640e8409f    Internet Radio
+f21202184c0aa9e47d3a4d1c8afeb155    DRM
+f71aa2bfaa0570ca9c46495ef4e4f06c    Battery
+3081ce4ec6f2b3355b5a3b39607035a3    Fuel
+350734b84d94abc827e3ca2382737105    Peer to Peer
+c2a64787d2ee21b66795b411924f779c    Hotel
+07b9d58b76738bf43e5dea1f2bacd142    Taxi Service
+9a786ae3ba9d7d0731652d4e3c91a124    EHR
+16ad1d6cc7eeb6b5701d32c79a19dfae    Biopharma
+405bbe19f48eca4e07250ccce036fb37    Mineral
+dd1ef1338ee8088cbbe1bdf22241358f    Gaming
+e531be1946aafb4e354e79b05ae1802a    Renewable Energy
+e0f7b18a4a5be2c0a34e1cad4114a984    Video Advertising
+617826b9058fd1358836884483f3b299    Funerals
+14440d9999adb3ee6024052c070a2a78    Local Business
+3ced088e84de330f443a1aa6cd3cc29f    Higher Education
+28c9216f6e08d0f99ff4aa2cf0cd17da    Chemical
+c62f860a9ee917468874166e5f761c3d    Field Support
+817e5e50a6ca547ef59695afb880a818    Rental Property
+4a751b79be1f1b0cb1238ea57112f2ba    Skiing
+59d10fcaf43d237ebcae535cd1ca657c    Facebook
+2d1ad8b1e01bf4ea70be41c43a4ec269    Virtual World
+2357ca1d601deb18c0f1146d91d7aeae    Consumer
+69eb772914ce2fb10998ef15631f644b    Women's
+7c4c30f81d7723ef834943f2d67107c6    Mining Technology
+210d44d60fd864534a3139efac496f38    Men's
+918533ddfab3dce5018fe49cff260fb9    Shipping Broker
+b0842bff0f4dce9aa2bc3a7fe9e114f9    Business Travel
+14364faa63f90d457b6a7378113364a2    Food and Beverage
+c68ad390d05dfc84bced3d52a6352316    Database
+7de5b73eeaaefc1886df7a1cd7f298cc    PC Games
+8e1223142dde8ccdd250548ee8f87c10    Angel Investment
+23c1776ae1fbd4e05f11ea7c4dcbf02e    Archiving Service
+ce96eba3ed75ee34c4c5a5d29f6e34a5    Personal Development
+f3c5ef54991ec673396b4fd95a4f1273    Continuing Education
+aaf61538799c4dbd74b8276d16827133    Sailing
+00414591ddef8a0ede5c0cb829e8f2d9    Mechanical Design
+d6c66c611af2b02fcb28a1cdae75b125    Marijuana
+99a87feedfc7e8872e415bdf00577cbb    CleanTech
+95cc88c3e281da11b64bb2ee379f3053    Baby
+d2ac92bc3c9e918ddcb48ce0a1abb12c    Scheduling
+b5f373498bd24affca13f89877d0e695    Children
+f55dc7f66a38750c333bc265f3761fe1    Productivity Tools
+9c8cd19330194b850080258e4a807e29    ERP
+0ae5c1be64b1a9fe6c76076285d2380f    Pharmaceutical
+3146fe4955b3c175c3e1ecf074bc87de    Translation Service
+b70871aa224e90f640cec8f0f0d5780c    Virtual Workforce
+d8cda5aeaf47b0d14a9caec87289adc0    Asset Management
+d2cf7cf9fb769f928ee0c49154efa98e    Mapping Services
+961c226d8c8fa6426bc203f92cdd3a2c    Wedding
+6f5a43980331880365dec927ab8e5d20    Sensor
+dda1f288360b45224943a8e28db70976    Usability Testing
+420ed6879b304463115ee6150ad85aa0    Ad Exchange
+9f50bbb6bb1d9c05b673a8876f547b2f    Windows Phone
+82de314cef02754df515d1c27021b22f    ISP
+3b3b024ff777ed33430975fbc37850bb    Consumer Reviews
+ca121753d26ba8d7854f6b972fd1a391    Local Shopping
+7a5d7f381774dd12fda4b96b067483b3    Consumer Research
+614d792f67edcc5ef65448390d91eda6    Console Games
+298a2cd658da226c7cf03288673844cd    Real Estate Investment
+d3b85d88e16d1a5ac3574c18df0ed60a    LGBT
+516d5e97b6ecf78565adb2cea62ae68e    EDA
+650c4c503a454725d8e848cd0e10bb05    Hospital
+9519382c7907e6fd7669fd7af414d32e    Courier Service
+5de864a5d56386e4bc830217ccb643a2    Application Performance Management
+2795f8fd47183f8f75135391ab707c90    Marketing
+5eec8ef39a353b2611849dff459291fd    Family
+58d758fe03c36cb4cb71c188d2596876    Limousine Service
+a46ce4ef1d69817bbc9190452e588bd0    Hunting
+39c6bdbfd3db5e6853c35488e7699603    Data Center
+cf573fc6139fc9fb5b5eb131fae12e51    Government
+714d833f223498bf19bf9ff70a5e2d17    Social Network
+1aca2f9284f3dbd65a5ef6506cbdb1d9    Freelance
+f8f4e4e3f0aa9b138131c244f0315134    Technical Support
+20cd907ad9d629168fe3e2ea07ae915e    Semiconductor
+92c7693bbb7afa14f760a89a62c950e1    Building Material
+19d6c5f40609ebd6970efee0e36d20a7    Music Streaming
+e42308b8075771b40caacc1228e9cb98    Golf
+04124a0a1dcf38a056b83fa71b8cba01    Textbook
+b7989a4fede2d9ec6d970e13212423a9    Wind Energy
+2195ba8a24f8ac97f345f36bba46927c    Social Shopping
+3d8bdbe94c307a77bba085d7f00f6a6a    macOS
+d9cf3c35fcf6294ce755c8cad2653125    Online Portals
+3286b492cffe5c52f7a39f9f16ae88fe    Emergency Medicine
+14b8e6249423524bcf15ace880522cf5    Music Label
+e611283ce2f14f8036504ced61374404    Biofuel
+d21c8107c0c85ba2a4cb40a96d5d001c    Civil Engineering
+cf4bfa344e5c0003ac5a6a8aa9608f40    Laser
+b3f618632ac733815859ca155b087551    GPS
+63d2bafbb8b88279eaf3dd06356d08aa    Surfing
+82086f50e760003b3a541649025c93d3    Assistive Technology
+14f97695c4ebc348d3735863c4b4798a    Employee Benefits
+9b58eb8a89e7b238a1eb5b9766cc4b3a    Life Science
+76fb8b23b96894179c2c693b5006e504    Unified Communications
+dddc8c55dd737fa2967dd30fa491ebc6    Home and Garden
+6e492b259bc1dea5e58af2fd86a7788a    Debt Collections
+6cccdcbd26dd4d3aa278568f9ae5ed8c    Creative Agency
+37b8e1daddd22bebaa159fadd061282c    Medical Device
+eca363663502acb7f7a403d35360ddbd    Grocery
+f2c396290eb0ae454aa746956255df0c    Boating
+e095d728b9464c74bf46b431627bf876    Franchise
+512e0deb38cadb242cfb76b16f739766    Sex Tech
+a5d542959870c680956785226d7206c0    Communication Hardware
+ea9c541fe0594e9a4aaac445a2a0570b    Biomass Energy
+be133f0721afc85efd6ae2e3ddf8466a    Health Insurance
+459ef85b685a1d51c3e913fc35e6fe6e    Enterprise Applications
+b8f561c5521dbfb22c5646bc79f2f5d7    Dating
+92049b4988e6902d4b0dfbdf1d4478bb    Residential
+eee77d3b03583f815f4e86dce12a6d91    Primary Education
+6dab555ac4f3dc694250e1e530475197    STEM Education
+c466550bb161064630490045fae01b18    Wellness
+4a52ad363a7e1a148bb9890aeb21f8c8    CMS
+8256b6a2134fd28ea78cc606ce4e0b97    Property Development
+e89057d04221b6cd8a26dc846f371d56    E-Learning
+dd6300aa6e9bf529dce79552e7f5fdc2    Affiliate Marketing
+c2022726fdc4b17188488b2f252ef987    Developer Platform
+c0bdd8b4e18451bb9098d01fef4bd560    Optical Communication
+9db815cea0c203b0cd64f7492ea1a2e9    Fuel Cell
+86d91a85ff9d93db46883b608fee756c    TV
+80de9bf4789eb80e051cdc079493803f    Social
+0fa1b481b75ac22db2cb48caf1bf995a    Vacation Rental
+772da8fe26d7ea0900ff0fc7c8368b50    Marketplace
+75de3d6754b846ce0797bc7ba0438c4d    Rental
+377148371551727839124d5dd4c652a1    Timeshare
+06477b0d4ca9ac9099b47323e3367e4b    Reservations
+3cfec0c295d778a98c8f487f21b8130d    Online Forums
+da6d4d3b2911c6128350008181ea1033    Compliance
+77327c136a59488a82dce39af2fa6df1    Computer
+3f4ebc8c8d6d623c099b4b3a437d98db    Electric Vehicle
+2eb0b56b6896e0f0545fc747a9ba6751    Virtual Assistant
+575b22d6f4d8abba90b292bd25ff2ad2    Home Services
+130948fe84ca8d3b6c2c4879e0c7cbf1    Home Improvement
+095057bdf032fbb8eac8287d1e72a2d9    Leasing
+acce6b210007d432f31c42d7ee030a98    Facility Management
+7942caad878e65f54991471dc8e7667d    eSports
+56ebee1b676212ca11466081fa2027f8    Made to Order
+ae1414c10cf4982f7ff7c104e9a87c32    Ad Server
+7fb7d93c1a9611b3f35eade2c172458b    Ad Retargeting
+1f69cdca96c475ba97e8caeef5842a3d    Ad Network
+80da2623d9d31c8ce6ebbe97463d0fe1    Animation
+b42d64b5e6eac05ed6b72732a057dd52    Cloud Storage
+2da9e9aee4337d182e1b4395d0cb14f4    B2C
+92e4e78e9327235bb7ada48b5e54ac55    Industrial Engineering
+450c30b74e4e20812a881ccea6196953    Content Marketing
+1807265d609493ca44c64bd0bc616183    Micro Lending
+74f626040f9cb02d0ce86f750c0da7ab    Car Sharing
+64bb1fd08519e08757a06b2c77ba91fd    RISC
+19a14f81ba04ba195d9cff0dc6eec8a4    Enterprise
+ce027447778c015e63e4b80fd25a1259    FMCG
+18f757d2d6e76eddd0356b79af039288    Ferry Service
+b3745f1d614bae19f0b7946e2494aa6b    Web Apps
+75268e3176ae92dfb738faa29c5a4ad4    Product Management
+c4cc6e8c5e682d321a3dae8742432895    Volley Ball
+83bd19b9d944aab68da79552a453ed93    Lending
+711f1e7db48048227a2414e5fa2e9427    ASIC
+78f709aed8fbcd28218af090789f628f    Mobile Apps
+bb6b92f9ccfa6f9ba59e4906ebf75fb9    Debit Cards
+0300a4918816447fab80dd78a82b291e    Basketball
+59c8fdd7d40886d23805de824af0016b    American Football
+94f4c1fe27c11dd57cb70d8a687bc276    E-Signature
+f561f98d845afb5593bd5c64aac205a7    Cricket
+d82f9f468a296c2b791c8006474b7e42    Air Transportation
+045d1f347440b8d952f7ca59d77c946b    Embedded Software
+e18856ce94dbfc1ca6784fe8b487af64    Adult
+d543f842188ae2c5e0c3c747e340877c    Same Day Delivery
+97c84ba1ec20457c33cb28dbbac5710b    Vocational Education
+427042999fe2b1cdcbb1cd94d2d24e75    GPU
+b27ea7e3827edd236ebd97f11317780b    Data Storage
+e69d7dbcb29ea56f6dfaf664b545fd29    Sharing Economy
+553f1e104f44ea96cbf14540b0ae0363    Satellite Communication
+ed2c430c795a392e13ba370c8c4eb892    Nintendo
+efd87ccf860e1a8239a4932afe0590e5    Generation Z
+e7d5988a28e91919421bb8fd4ee24004    PalmOS
+57d4964bdc51a0e9fb24869ed418e858    Consumer Software
+a60e9792884d069663f7a9c0f3100ded    A/B Testing
+66c636eaa20ccc61fb1273dce804788e    Property Insurance
+fa736a2c31088e069adffb7a75744f5b    AgTech
+f213df876356e51f245acf9b7e788b13    Product Research
+47dfbbd5ca994bc04fa1dd2e60a7a7a6    Xbox
+a2684225b25ee6066c7b0f513d6eb7aa    Cycling
+a4ee0f7fb8b811564899c490e1d26766    Commercial Lending
+0be54c6afdbe15ec3bee79be1f45bc7d    DSP
+da9c9ae8f089ecd03709243ae50460dc    Windows
+7d0f2eddc8297bbac3c6689cebcd2e01    Tennis
+28c00d6be13010026923a0336e72bd82    Private Cloud
+63be6ba3f14c0d91397967b317d0ce98    Fathers
+46364f244c13d464305cfe9bf0c30087    MOOC
+4af38a5159d8e922f739204e1e35b441    Consumer Applications
+a0c80217ef62a3bd530271e147d758b4    Ultimate Frisbee
+651da5e5fa99061c31f752074fe2092f    Rugby
+30315074339987b3bcff8d480c8fdf3b    Fossil Fuels
+ce1f2a1b09fc781a3e7667a28b4abd15    Playstation
+0caf426c828c53ef473cb9b5795d9040    Management Information Systems
+78b58810ad58a6232a802a0e3603a544    Media and Entertainment
+e99ec6ff09d2ca21caef404b5b558181    Intrusion Detection
+37fdfb55c4c7e30c279e06b79f0d4c85    IT Infrastructure
+f8985bed69c1d34c66d5a7fb6bdad279    Mechanical Engineering
+19ac2387fcf93d99b2098b0bc7832829    Domain Registrar
+b4181d9d6bf4612055cebaa95df30bd0    Baseball
+53d763c78c06f94a1ba527039feee67c    Commercial Insurance
+49f88f026018cdeaa366abef5d02d8a2    Auto Insurance
+78b2a2367c940f2c579c9d710921c0d8    UX Design
+4835e2e666b59b5b34cace75de213225    Event Promotion
+07507016edd7797e603b6dd40d01d582    Millennials
+1e36267af036694f25c0d4f77c7a5bc1    Chemical Engineering
+1c946581f37e36e2913fb660b45448fe    Embedded Systems
+62bac433ee687075c47ec9efc0d3c0aa    Food Delivery
+9f701861d7ed8dbade9b25c2ce5018cf    Livestock
+f9f2471cb16477bda9cab5defca5d67a    Tizen
+56778c1fb81f0b1ff402d21124c88b3b    Railroad
+3de73809e7ff63ed5292ab3ef6602816    Network Hardware
+01b9cf39904e178cd9598089f1e90a77    Gift
+47b73381221666166616fe4cf370f70c    Water Transportation
+36d978da3446f5e08adcca923f0b62de    Table Tennis
+07d360f5ddf424f27f7ba4be89daf727    Quality Assurance
+e3bb0c51d59ce1decf96795b22f085a4    Roku
+0a8d6f1b15144854582738f73a44eaa6    Nuclear
+f47097057bad8cbf0fdac126de9c2fcd    Virtual Reality
+367f9cec51a785613d3a4f8855fd5c46    Trading Platform
+7b38226f8c7d9fde2bf42f10e1f34cb8    Drone Management
+594199f2218a15f9e12a1ac06a1dc48f    Environmental Engineering
+a572ed88c7c57ebbe06e65e7ed62d17b    Software Engineering
+548cfeb20b4d6b91a514c3646e3f70db    Life Insurance
+aa868e5fe016f3eae07980d01fddfbcd    Twitter
+3cb6925a9f572f10049c6632a409269a    Google
+d97005a9c9dce75d433232329b93ebd4    Hockey
+e334bbe7f9ef9691df46926554326d40    Industrial Design
+4056544b0befa05646a9e2cf4f7d85dd    Social Entrepreneurship
+856e4d564de996505d2f22d0bb2d2334    Furniture
+e362ac362e59c58d08fee5c45f13bc64    Graphic Design
+bd082f4d45d10de30371bb6e02d5f0e8    Cryptocurrency
+0cba6371b9f70197257e0273e6da0b22    Subscription Service
+4e97741f98ac26d495b974220bad7814    Podcast
+829f037b8171d9fc76184c6b46038020    Ride Sharing
+2103f7b842293d5c408a66426df21e95    GreenTech
+86985333a422db8b7d51478c132bfad7    Delivery
+245880f2a61a0ea2cf81306964716611    EdTech
+8c1b0c584cc65d0a0208f656f91e4c82    Health Diagnostics
+e06799a9f78976e749a771ee980a70ec    FinTech
+11d12f9b9b5b1a7b6b0386f76910b094    Wearables
+e4d98517f8945807a67b7c354214edd7    Independent Music
+dcdddd27fcdb33757a20429d2a64d9e7    Group Buying
+9af4eb1207db534037f647a842b8d0bc    Handmade
+7fbec13c08c637904c51ff3f46311286    Q&A
+3f726cbaa793bfc9fe64bc05576244a1    Teenagers
+3bfc0aae0f8cc8efcac9ac6b2fa504aa    First Aid
+c935f86f45e97937bf48406d055ef664    Virtual Desktop
+ac057a31756a62be16770fee94b6aeca    Bioinformatics
+68118c467a570ad671db19beb493f01e    WebOS
+4edcbe9d678a3b25b61c293ddc52507a    Spam Filtering
+1ca57cf399a1759fef54fca1acf64eac    Diving
+af4d3fd1e00459dfc082a0b0bbebd4a0    Cosmetic Surgery
+9fc4cc26b3dd038bce64713b75a91871    App Discovery
+31ae67ae614aaa481c41b496653cd903    Corrections Facilities
+487dda727f239794730c9ce6250a748e    VoIP
+568bdc79d059d824e701255e5aa86888    SNS
+dac09aefb2be1f15694d3dfc0676632b    Google Glass
+a78ac397329ab850fe645e4c86705a32    Consumer Lending
+d956d857a68ecbf04d80be7e9470bacc    Linux
+f096ed15f63fd7f4b2c389b70da2bd5e    Product Search
+d495dc9c0b00c157a254e350f573d61e    Navigation
+e5fc663a6268a9652482309f11b21c7b    Social News
+33cfeb88f3231b4f8eccf3f876a5df05    Mobile Payments
+24dad27e6a49ccc1ec31854b73d60d16    Speech Recognition
+b244984c5e8b309a0156d579046114b2    Cause Marketing
+98698685a9834d2fa11dde7e3602eda4    Social Media Management
+bc22c61d4d2f3dd0531b457af33011a4    Sponsorship
+f0752dacb35189d6ff07a1dc47d5ffc3    Veterinary
+37c7ea8c3919ab3cdeb70c3735854f1c    Cosmetics
+216f5e42a641b0f3270ac9d698604f40    Shipping
+fdbc28f67091171442c90c6c435b3479    Alternative Medicine
+3f49498d20fe408cce0c5425ee885d74    Android
+9017245c89859a74e8550219d5ce56a3    Business Information Systems
+bad7067eb24d5c63a2e954a9e059d7cb    Coffee
+297fe0f20d88ff359d461c54bf812892    File Sharing
+67f3477cefb81b7f34dcd9cf85c1919e    Shoes
+f8c49f2b05d1923cf8206d67bd12f35f    Photo Editing
+f3b5e4818880c03999df6a980fadb070    Green Consumer Goods
+e303e83952d3f2f0b87d757ee8b86b48    Farming
+29a20c87a964aa50c4c51c913e350685    Gift Card
+70bb82f61baefa718c8966307f6f22cb    Beauty
+c8e6b95f80d9bf15ab7c37a0e8f052c7    Property Management
+19c6890bdbf5cd2b6e5aaadd81c22076    Energy Storage
+1fec33a7163f88a97e5c8967fee59a1e    Drones
+f3ab458a29132652018766d083c5c860    Coupons
+0a59055009f4ce55cc0b4b9a035d428f    Elder Care
+a4673e896e9234b343ffc0d68d682ef3    Intellectual Property
+a3b491d88d66b566a059c14322895d77    mHealth
+63da4ab321da7857687e24920e68c249    Diabetes
+631d91d69da76e504eb0d27e28ed2a7f    Art
+99606484dc77fe7a2c8bf20dd9e44f67    Personal Health
+c9546d533b2884366358584a3851dabf    Home Decor
+3ab64b4261dc08a5cfe3a25127ae3eea    Content
+1efce9008f684c05f18baa6ee273dcde    Water
+f1e750d2a8988c0f7d785d687b71b0a7    Textiles
+5e61c8d60b408d9a5d298142b897593e    App Marketing
+98200a732ba50e0c74adf9c1140cb2f4    Ediscovery
+c7ab2c73e46f0f40afe0eb6182949b41    Smart Building
+a6b9c45f2caa42e130e726c546d43186    Logistics
+97e0bac27d87173a47b3366f201da451    Food Processing
+bc4ee7e1d4a1c228c55129d716ba971f    Communities
+9670a37afb55d2e8d6fcb4d85c2e7eb3    Interior Design
+e7d8b7cac72b77935a6d2801f6a0e8ee    Hospitality
+c33728a5de33d0da7bce0e3c4383bc99    Big Data
+f3f21d3f29ac5008c81ef57c2ac9dc00    Motion Capture
+42a1e8f706c8864ed8c8432e57b6a0db    Cloud Infrastructure
+ca8390d722c65bb5f87022f52f364b1b    Predictive Analytics
+0a88e74aa6c9ff6d69dbe8c85881b4b9    Real Time
+890072484ee96c15851512f0c02c6ace    Smart Home
+0b8c790f03bcb2aba02e4be855952d6d    Facial Recognition
+4996175c0c92f2042b55f940bc1cc6d6    Recruiting
+be21aa9f99cd0379b746899e0ec7e0fd    Marketing Automation
+262727f4409a1b3a4e14040339daa54a    Social Media Marketing
+8c6239bf6854494b1a16e4f7a286dbd5    Messaging
+c3e7ab05df2e17ed187a11040264ed58    Corporate Training
+dc7790278b15f74da7aea057c19c3975    Eyewear
+db01a2011e4757b3c3cca63eb94e3878    News
+c4d8caf35fe7359bf9f22d708378e4ee    Artificial Intelligence
+1338a4ae2b9ca42d40a599a088d99fda    Comics
+56483f2d3a3570be7b8024c5bad5f1b8    Web Hosting
+1b9f782b129a1d0de7c82af59bfd6c07    Fertility
+21b207a59f0bb0379ee9d9d9ed7c3fa9    Fruit
+bca28131fd1a400a99718279dd7fbbc0    Elderly
+edfe69d757c2dac4fb0286d10da987f1    Virtual Currency
+e5445f23204d6d7953092c17f1e66d78    Video on Demand
+186d333a99df4a4a6a0f69bd2c0d0bba    Intelligent Systems
+654b60a6b105fc40229588a9a7dab2f5    Nutrition
+df0d9e763b4f10f2410253f278ee6c5a    Retirement
+a12511395e6186a7abe29e2eb1f16bfa    Simulation
+b53bd8d371bcb9bbc9af1d41cee0c822    Social Recruiting
+6dcf01031977291c71e304df32828986    Reputation
+91d075031e4bbec161156df19b26be3c    Tea
+aa1a6ba14a416ab5643afe90e2407577    Water Purification
+fb5cc2a43acddc96a784d725775b14b1    Human Computer Interaction
+4824f20ff433e03897d87be1126eb82c    Classifieds
+7c4a47a6191f47c2acb77cb621e19ec2    Swimming
+343e767b82a3a443f9141d1966d8eab2    Skill Assessment
+6e028126f8aeecdb9bd42c4c1569084f    iOS
+27d625229ec572beaed4a1d8dbf721a8    Serious Games
+3171fe791f838634f6bb2be9e71ff530    Task Management
+394fda16eeab4398f53c79785038b60c    Online Auctions
+cbc36b3c09fd1e1f7ac8400a546de247    Wine And Spirits
+58284e684cf7e34fae3bdd68f25e9b99    Printing
+2d410a02e5d095f6f7f7690061283dd1    Employment
+d9dda577abfe5a6b0dc5f5680bc376b0    Operating Systems
+42707b93949f57f13b7e8a6208e21efc    Penetration Testing
+8114726af6cc44ee857ce7b87776f06d    Guides
+b3385762ecb52f846a3c0c399a9343d4    Flowers
+1c163fa9a6a242ed1fa5299f626804db    Bitcoin
+bf6058609fd24d32e23e93d977d72146    Video Chat
+4e20727fc81296f1e6cec41fe6000cb3    Fantasy Sports
+ac909e6a4cc407ab9d417eb068ebdb35    Darknet
+f3d22026c056e0f652d9a6b4e6008f84    FPGA
+513c02316c913702ab2a4f01b7ec73fa    Nightclubs
+92df4ad07ad687b020259e6c0f2395f8    In-Flight Entertainment
+8c09868fb82e6e445908384b5980db03    Prediction Markets
+efb26505b8986955990b3df12fa3e02b    Social Bookmarking
+3373d4b52db0b7161e22f57271941e32    Green Building
+aad2f9370707e2649c2e63a2f5083150    Soccer
+f544c5627d7f01841344ce30946b60e3    Content Syndication
+70c61872080245b93a48aba7431b7bde    QR Codes
+222a57e3269e6c3fd2df01a65ff1b9ac    Sex Industry
+ad8f33a8c5d0b7d786f389aa2954c119    Visual Search
+3cfdd7cc1dfe17462d08aa25f056d781    CAD
+6d8f96f491cc95014ad2d66e65cfbca7    Presentations
+4c05603ade94fa09adb67ecde1c12c14    Auctions
+b26d30cb466d10fbdf317931541c33aa    Virtual Goods
+dedf003e1bb6d63c8aa272384f91e5f0    Gift Exchange
+351abbd7efe7dfb259c34d608db4d53a    Audiobooks
+a90af7aecd988e2a1a6f589fe4037a86    Concerts
+8eced4eae4ffe56ab97a7d87d6394fd0    Underserved Children
+a1ec698c164fd8da096fbdbb751c21a8    Music Venues
+e2cc62391a970063a30ffe3b5d86161b    Young Adults
+72eb816324b380c8685121019ceaaaf4    Lead Management
+8bd96e9cdb8c261dd0741b80a919c786    Collectibles
+5b8aca674f27bd26d2450350b537165e    Transaction Processing
+51c0d758772de2e5f7ea0988d5a7d8f8    Indoor Positioning
+24c5db8402a2604049cf4314b287674f    Identity Management
+8a3ae13eac51475931a5c578e6c1e31c    Farmers Market
+c6d041b14dbe796ebd46b7e050a344ec    Lingerie
+1aa6e5d3a882e0d8b37dbec5a7f509fd    NFC
+45e420d572af89d5027b22cf5336f0d9    Mothers
+0982d9e2a0bca98edb0220b18c8b036a    Video Editing
+71918537d499ddfaec1cea7e2b775289    Charter Schools
+4c2e738266cb5e449b3ad9983d537a0c    Rehabilitation
+6d121d5db67f17656403d33e865f0e28    Price Comparison
+a477d733677063f68b379444379e3186    National Security
+a3a34a17be2dc903687f6f1f3e6530ba    Assisted Living
+af922a55ff56771ab9b506c1284ef0c8    Gamification
+11f6d47d1ab539d9203c272b227898c7    Humanitarian
+7cd5bc2db7d191dd1778eabdf1399ed9    Nutraceutical
+bca6746aa1b80637b9b2985d70a7e507    Recreation
+9ee51d4b2d79a32c479f668767ad6898    Aquaculture
+44cbfd356e4b3af574d2ab01eb112bbd    Stock Exchanges
+fe55ab185d215cd33aacf899919728ed    Landscaping
+e9ec479b675359a6c818abc9eb1507b6    Test and Measurement
+9a7758a18a6d648933697315ac5e5e8c    Browser Extensions
+dddb9b252585b348f88790a8c0fc4e0f    Video Conferencing
+24c09530c94b258f2e7710aaa0bfe87e    Procurement
+d4daa14a494667f6d0b90997bdb2b889    Music Education
+d1c5bf86cc150f8170208988122283cc    Musical Instruments
+c704ac44d7ba7cbe146c1503d4e620f0    Journalism
+3d95d448d63ec411769b9aa1321cc7a6    Energy Management
+9d01b6bec0716db0eb2db18094bde681    Wealth Management
+68e7ba7c5e312abeec3ec157059ec904    Nightlife
+4b6c953107fbd30c42004af5c8571b14    DIY
+47b7f337c81cbb9ee4d208022a0dd60f    Genetics
+4b5272c76e2ecba35b37e35dcb737344    Quantified Self
+789bbbefc46e1532a68df17da87090ea    Natural Language Processing
+b433ae30feb9c0c675b06b16174ebe09    Outdoor Advertising
+47e90bbadfb42b2e0034d3e7c809373c    Outdoors
+a69e7c2b5a12d999e85ea0da5f05b3d3    Computer Vision
+e7acbc9932c74c8809ed8fae63eb2559    Text Analytics
+c9461eef9ba2cb920d052d2d5f85141c    Advice
+5d9b1750817620fb3bc6f02ea58c7215    Adventure Travel
+ccb73ca146488df222ae029e3500f4c1    Animal Feed
+22fcae5488451b71e6044f57fd3bcfd2    Collaborative Consumption
+0404981851ba3bc8c0b8226df09e97c9    Flash Storage
+37d687ed5ad9d434d1fc09accbb96667    Point of Sale
+371b7b2c75fb9c0017785a24bed20453    Developer APIs
+a4ef4f4d5063a104f75853d855db79f1    MMO Games
+982fba8505b977028a4e518424a489ca    Natural Resources
+b05bd17d1df98addae1414e07dc37c9c    Sporting Goods
+80ccab3cf39726282bc6bdcbde68eb89    Gambling
+2366c2dee560cdd6458d749172aa7077    Film Distribution
+dd456d8295d94e893e1912a629a598ad    Billing
+9b7bff94c36cb8d4878969670454fe84    Direct Marketing
+48f77fba91a0ac0f8367b1aff1dc8170    Fleet Management
+aeae93945d345f7584395edfe8f12644    Resorts
+4d4b3487d2f74605328aadddc1a693be    Contact Management
+c3d5f46f0a9dcfdca44a4cc6a13fe804    Solar
+d2836636d33ed8c2118932668d519b74    Nanotechnology
+6a29209e224172fd358f77f6e99905c6    Politics
+77ed4b629d8b8e69fc0356fd2297092c    Homeland Security
+ac34c4c6e430f66f44aeef8ca45b52bb    Semantic Web
+89fc23fc2ec14aa3906ee6afb448ae0b    Commercial Real Estate
+ecb24ac4b12dcec886b4d3cd57b451ee    Data Center Automation
+421943ef50aec811470ec66a0323cf0d    Robotics
+ef901c9fde7f74113d790f62c6b22e44    Power Grid
+03ef4ce7c2acaa82a8f4d97ab53cd085    Brewing
+3d91b7f778f62c44e6ea9a5e3e392f06    Craft Beer
+bf5c955e6f68da36e5021d3962c28325    Social Innovation
+564e5e5965fb82efef3a5084e5fa6132    Content Discovery
+15c8defa8baee5471329e2365bb9bb51    Parenting
+342cedc16dffc0fa2e2ff376b7db1f69    Psychology
+be24ff10a0407d8fd7a71169cc22497b    Digital Signage
+b9cab5d02afc6b49ff6d796d2ab49334    Content Delivery Network
+54af3c849aaaf5b78a0068d3ad54c3a8    Personal Branding
+6ed1eddf4d71581ac5237ccdf6759e64    Photo Sharing
+10b5eb37936379fb7fc94e8b04583307    Photography
+541939b643dadc8431e33523a87a2129    Film Production
+f9e277008504b2036b23606fb32d1449    Industrial Automation
+92deb86bde0553d4e1f939658c12d2da    Human Resources
+dcfb5d50294335bd7ad44999a96c3480    Professional Services
+0c4a69d3888cdbb60af328e09b80393c    Data Integration
+b94dffa8e39f1a70ef05451d1b29fb20    Location Based Services
+95642ff023e979a3612b50de99f06305    Transportation
+f283d492b4e4703f1270783173e63eef    Communications Infrastructure
+fb98376c283a7d36fd3e65d036d7ef2a    Customer Service
+2095dd4a768ef2d5c367c3927a1188d2    Casual Games
+af3332489c7e50c5168ae91b86595a17    Apps
+e4d83fbb33f0a6f01399a68245e8f8ac    Construction
+5ca011af31fe335c6866ff8b635bb2f8    Tourism
+281690229937f752a38cc40538cd7222    Oil and Gas
+119ffa052231044ca99ae9b030897dd4    Market Research
+89da20c4f7c51b6c6ec6ca4c272df3c9    Consumer Electronics
+a7e6d51c665d5b0b11ca07737db50c4e    Local Advertising
+08e0a9b414d1c281daa8a228c45e5110    SMS
+ef23115653f4cfa379eea04b28bc3c4a    Public Safety
+c333af055f63e0621fb399189f106b59    Film
+c4c661597592b141ce574ffde4dabdde    Career Planning
+9ebf5fb1a1f97c81da82517c05bfee06    Direct Sales
+7d5e72c34752def2ac40e24aac2a004b    Parking
+eb60e5da548dc2983a9206c15a2c89eb    Virtualization
+4d5971dcdb1aa9a589119f546f3c2be2    Edutainment
+6f169dae3199cda7a7eb94c30066691c    Digital Entertainment
+fec1a8066b09549e2c937aacad1a38f9    Lead Generation
+c027cef70f5ee22ccc82937146652034    Hedge Funds
+8199d4524facbd2f30c24be85dc551cc    Emerging Markets
+ae8f68d29319f2c235494f1ac2851660    3D Printing
+7607ad5b247cf36600badd0e738ec5b1    Jewelry
+839a5a9932621e447688895f3570d3aa    Meeting Software
+917e01dbe156b8f9507fae9b76ecfc48    Event Management
+da2d86385b11da4b129ca7c7f2cd4e55    Dental
+2e3b8104b12e468a65b80989208f0b16    Business Intelligence
+dd09c747194a1304b2bac467be9226c8    Architecture
+a146d2f44b22453af8bde671e3182112    Small and Medium Businesses
+8c453fd390cc5be323a6cb2944fb05cf    Data Visualization
+68250c3a6cf586fb281e9072ae2d4fe8    Banking
+54ae59445d3095de62d5170535f943cf    Personal Finance
+e2ea4bf5a8e850e4e80364db842d7983    ICT
+048fa3b0ae537c4ec5b71ae93b6dc303    Broadcasting
+47592b2eaaaa6aa3d0e982ab5e525c2d    TV Production
+c2ddf939d1f3bd05c43622c0f3cdcb4b    E-Commerce Platforms
+e5dbd6bdbc84dc1debac595549a4319d    Cooking
+66be03e05dabb8811c030a249714bf56    Ticketing
+f6195c471e3b4cce54096ed62f94d43c    Payments
+8e444f222d1219a1d6d01d1952887a83    Clinical Trials
+ae5718dc8602c733e62b28e6167091ad    Finance
+d8cc30465eec55fdeaeb4847152c3f77    Universities
+51385655f802346b045df44f461989fc    Restaurants
+db173067d318c3fc357aac38fa64c111    Project Management
+b1b3b2d785ed2cb1fc603e2b6a3b5ddd    Video Streaming
+e643b2684da38a4ac1ffae941d27b779    Energy Efficiency
+38332b1e9615917e89c0346d631ffa97    Recycling
+be0f36fcf1fa504eb9a7d5496cc754cd    Organic
+217f63af2e8f9978085b262592840759    Collaboration
+45a2bbeaddd89198535837d9c1c7e8b2    Home Renovation
+e1a4665e8b66feda243239e907eceb6d    Privacy
+2fb9b79f0f4b0f2ba2f6ef284a2a4219    Performing Arts
+7ec4e4c8a648da5dc02b90a98c5ebfcf    Supply Chain Management
+acee45c107e3c7a24853f9df6c484e9a    Web Browsers
+6798b0e8d6839088f29be9838a21e08a    Electrical Distribution
+9fe4b69285863baa84a49ccf4d6eb0fa    Infrastructure
+3b1e863370a50f3eacbda5faa1c7b363    Ad Targeting
+d818cc40e0a2aac284daaeaa3dfeacc0    B2B
+e173f2553db19d0274cbf58a1f45b483    Electronics
+f4ba246ee61b40f422890686ca748ea4    Leisure
+76c672c1ef3372f08027d747c8c6e4ba    3D Technology
+f579213a60af8bb3309b1d80607ad2a9    Information Services
+eb80816d769eb2dce9b4b6399e8c498e    Open Source
+ae47d4bcfe64963806b8ffdf91a9f82a    Cloud Management
+2d294e6580ba93e53a5192cf5e2533ed    Sales Automation
+bb1777e525f3b9f2922b0d5defe0d5bb    Semantic Search
+687e34ef30e2af08a178436d6b53d633    Email
+ed3a589dc9a73cbb9feb245f011e1d54    Internet of Things
+5e863b2028f6a76089c7005249ab4a70    Organic Food
+b1234a830ad1c131b78881f8eb48c35e    Legal
+05e1d0a1c34dcf1ac6865a6466a8151b    Audio
+a05dcda63d19288d9b661473706720aa    Product Design
+50f7f0b821a522e320ff34c02396a047    Financial Exchanges
+5c362e082d00f3b4ca60584bfcc4e72f    Publishing
+b8ca872c983df8dd36392660511203ef    Insurance
+bb2ad65f1009db81c6f683dbcfd64870    Automotive
+a0144815bd8f9a1b42ae74c91617a77c    Sports
+d1a166b52c1e757cb08e6e5b7962e944    Fashion
+98e7ead5ed981a63daa79ec18919a6ab    Content Creators
+db343f85e0e3807d0517742163265ebb    Cloud Security
+05ce599519d07c15f4c719fb5c641c33    Network Security
+d29852ab4bbf95f56087563ff127de71    Brand Marketing
+dd74fc36a3bd4b34d995c4366e67c0cd    Language Learning
+e12cc7ded276007e7d89bdf3f8d1ffe7    Telecommunications
+6cb685372de1b0412ee5451ff81bccab    Advertising
+755a3876a84b866fa96c396515fd5eb1    Advertising Platforms
+f8146b4d5d2653a6fea7304e54b40e50    Email Marketing
+025caab73e5498f0061c73e7af159cd1    Education
+1f24c7e8a95d3e1b27240941e80c9884    CRM
+46c250d500f6d12f4ad89b16f8b233d4    Cyber Security
+4c6005cd347635d2ceabb7d4f1d89e8b    Security
+7866a1c021ec241cc2a6d263a6ef49dd    Cloud Computing
+b37dbaebc825e6a036de84556a5d2e1f    Venture Capital
+d922c0063ba0537aedb5379ca5767662    Music
+99c5404c0ff58ee5d3344b944ddb8cd9    Analytics
+5ea0cdb7c9a647fc50f8c9b0fac04863    Machine Learning
+0d39287e5b1377a6970274294daded43    Search Engine
+e55f09e8697b1653f86e0274d25d6db6    Training
+1eededec493e2f3d9705502fcc7485c0    Fitness
+dabab6afbf1200cab18585cead095097    Video Games
+be0cfcc4764a544482856e07bfb1c80d    Professional Networking
+e811671c168d1fd236e5df4e08a09f7c    Manufacturing
+4bacab56cafe2e50fdb27cb16c0b1cd6    SEO
+f6de03219c3ecbab7a67a018375bbb4e    Child Care
+a5194b80118aaf3edb95665fd12f2474    Dietary Supplements
+ea5b8052d65dc77b6861ebf3acf6d3cf    Waste Management
+93872d37a1f6a0afb9e20b150c79f8eb    Retail Technology
+e9abe18b6578192c63a8266acf7aa840    Social Media Advertising
+8672f521ce9ae851adffc35d2441a0ad    Travel
+c08b5441a05b9777b7a6012728caddd9    Software
+655df1bf587c59e34665136fb2920827    Shopping
+78816963be25bc89e317a1b894f472cb    Non Profit
+3082b9fae0fd150a1f2da6f8d3515c0c    Advanced Materials
+6a733ac8b79ce2d255b9cc3d66435eb6    Agriculture
+dd82e300d88587dd148b419b21c14cc9    Web Design
+292d82c553819717827f3122ee792e71    Web Development
+f9b14a1555178f380562729ebb54dfdb    Homeless Shelter
+663f38314ac8a42d8dbd0a8c3a0a9dd7    Vending and Concessions
+2de01956ad6686230b9b2c83ef9b7ad9    Alumni
+5d9d97f5440d56f7976ad5b0a3c5a77f    Multi-level Marketing
+62564c13d63b1a8e689427dd668b51d4    RFID
+e012a489adc7cd6d975c928a8dbf16cb    Religion
+8ebedea6e4a78594ac1633e3cfef7634    Local
+b57ba844a63194666e25fb6e50aa5dca    Vertical Search
+f8320fcfb65737d21495daa3ad888ece    Freemium
+82bf2be63f6adcc7b503db3361577b8b    Celebrity
+8fae78918002aee2311a92b253c892d8    Biometrics
+61f19815c7f8ed2c8dd181bb306560fa    College Recruiting
+aac4d73666bd232777011416bf43695c    Geospatial
+a0e2db7f8397b365a8eb8907eadf527a    Private Social Networking
+5222bb726a6d08c37afeafa9db296e5b    Reading Apps
+dde4df9b2d64c8da3dc84c9635f1d415    Social CRM
+e391c491c09da04eb5b657aa8b8d0fc6    Sustainability
+e97945819547215081857b747f5c9913    Lighting
+55d506cf4bdc85e02076230bfac65d6e    Theatre
+c2a98b8ff4bc2a86de72ba85f41df990    Physical Security
+a402e198e69beda224540bd8c09fd0df    PaaS
+8814acc59b6a4f5328e3a41c22d6477b    Mobile Devices
+e8804a828603d2e1c3b5d241dd8030b9    Tutoring
+2643338ab464bb848a4e2a1f0e8a9958    Tobacco
+104eed8c8bd55d13e418d698bf8a2bce    Fraud Detection
+af9307c9641372aeaac74391df240dd2    Image Recognition
+202de69d732b54711e688453cfbc8b92    Therapeutics
+4349df9944846059bde41b4ac7b55abd    Toys
+c17de7ff69031bd4d8b89c72560048ea    Self-Storage
+1f843ff14a47c956aa2acc8d290da90f    Impact Investing
+b59073949837f1907ecaa27462666650    Space Travel
+4a45af549841add7cda31c166889a6b0    Loyalty Programs
+99dcb039c672885e6290e0c72667e1f0    Incubators
+b98335032cf212ddbd0d6b0596ddf8c5    IaaS
+5ada59d6cc9e97c49deabed9f472100b    Crowdfunding
+9c453c6c2fe97f99eed3d39d6a05cb3a    Data Mining
+1b0319b6bf8092967c58e45f0767bbb4    Crowdsourcing
+f0193199a968b457eb4995344e22a5ce    Industrial
+588427287ab95bd1bb67e8e55f6520a0    Biotechnology
+d4a7bfe659edae17e0431a7415745a0e    Events
+89b9e37a0dcba76e0816b69d9b54279c    Augmented Reality
+a326e225acb8f9c0abfe609a82b71965    Real Estate
+0ff04f3a4264226a9c03a481554b637d    Energy
+61b83871f3bef95f93bbd555157a4ff6    Developer Tools
+744fa5d2258f24df55d638983e272543    Coworking
+5667104c03d10317d99655a02fb16f90    Personalization
+bcf1a24a96dfd95b099cddd418385579    Wholesale
+9ea8539955f487228d7063271a266017    Lifestyle
+e37ada49ab155e460a49f0ce1a3c9128    Neuroscience
+59ca1fa9cc207f843c52a6cee0ffe4a8    Outsourcing
+11b5fc5f2db3a0a61457bb237c7b6ac0    Credit
+ed8217ffbd1126fed82eeb98a276dc2e    Innovation Management
+98de1ee24c3bbe260f7b46fddbbfe76d    Law Enforcement
+b8f58a18453350fb93a9b4f5579318c1    IT Management
+7a37f7ddda23e8b03fea7f16a607d7bc    Racing
+d421318148a9dd5010ff32dd5a33e29f    Public Relations
+1fe278eae44101b930db6c301c0d6fd1    Business Development
+89677d3071f2a6c9efcafa3f4ae4de1e    Credit Cards
+404d4762e5b61721c0456b0556619e73    Public Transportation
+cd23551075daa6605884fa9977f9d729    Charity
+8a20023f3e3220bbb6abe824a0386367    Aerospace
+1ded70549e6d2ede57adc95e83be0c06    Blogging Platforms
+5d591be4ff9601a70493183606afe26d    Document Management
+c267b15acaf8a4c809731ee558de3eef    Knowledge Management
+5fd72d4b40dc4f4df70282e8cffb5e7d    EBooks
+99763baa917d488e86e234bbbde18450    Risk Management
+9f8132a026201f89a2d2fadbb3f16b4c    Wireless
+3f21415b57846be63722eb189190b7cd    Health Care
+d0c29b4e27db3c4734fe94881a585836    Cloud Data Services
+03f72e37791c2a02cc323a202dbaab3e    Mobile Advertising
+ad091ee00259f129777710f65213584d    Accounting
+e6d30f03ec4b038056ebc127dc979003    Clean Energy
+c6adf8227fa3c0b35188556e08d72128    Video
+e907cf2a842d8a30a0b107d9de4a8178    Mobile
+5c4e69265ff7b1880892c8eb036c5ace    SaaS
+9126275dd470152402f493d481721a6e    Medical
+b9bd65b920bf45cc207db70ac35d5bf4    Consulting
+dbca89faf0835438b4add3fdeceb78e7    Information Technology
+5349a2f214d89727c32a19ebea5db78c    Social Media
+90b4194f1d4fff5cd7a66b6f32ae4892    Financial Services
+d38b3f26abc46f7bb29db952021a1b14    Enterprise Software
+2f47ba9333d361fede890fe8a4a8366b    Digital Media
+b65acba5b299399063908be3e3833a07    Retail
+275ddcbc27deff4f4e506dc26ebf9570    E-Commerce
+bf395a9a618c02643a2bb18d8dc56fff    Hardware
+2772a539e63609dc30dcb1a7deb98d0e    Internet

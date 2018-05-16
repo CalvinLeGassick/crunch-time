@@ -1,4 +1,23 @@
 PPL Gas Utilities Corporation
 -----------------------------
+
 http:// -> https//www.pplweb.com/
 I updated their website.
+
+--
+
+Cannot trust the "companies" filter for /organizations query. Zymergen does not come back in request when organization_type is set to company, but in the organization details, zymergen's primary role is listed as a company.
+
+curl "https://api.crunchbase.com/v/3/organizations?user_key={api_key}&query=zymergen&organization_types=company"
+vs.
+curl "https://api.crunchbase.com/v/3/organizations?user_key={api_key}&query=zymergen"
+
+--
+
+Gradient Ventures is not searchable through web interface. It does show up in the API.
+It does not have any tags for ML / AI.
+
+curl "https://api.crunchbase.com/v/3/organizations?user_key={api_key}&query=Gradient%20Ventures"
+vs.
+curl "https://api.crunchbase.com/v/3/organizations?user_key={api_key}&query=Gradient%20Ventures&organization_types=investor"
+if investor organization_type used, gradient ventures will not show up

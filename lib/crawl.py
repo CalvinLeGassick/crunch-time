@@ -1,3 +1,4 @@
+from collections import OrderedDict
 import urllib.request
 import urllib.parse
 import re
@@ -25,7 +26,7 @@ def linksAndText(url, base):
 
     # break into lines and remove leading and trailing space on each
     text = soup.get_text()
-    lines = (line.strip() for line in text.splitlines() if len(line.strip()))
+    lines = [line.strip() for line in text.splitlines() if len(line.strip())]
 
     # get links
     links = set()
@@ -43,8 +44,8 @@ def linksAndText(url, base):
 # - key:    url within website
 # - value:  plain-text on that url
 def website_plaintext(base_url, max_depth=5, sleeptime=0):
-    url_to_text = {}
-    queue = [(base_url, 0)]
+    url_to_text = OrderedDict()
+    queue = [(base_url, 1)]
     explored = set()
     while len(queue):
         # Get next node, explore if untraversed
@@ -59,7 +60,7 @@ def website_plaintext(base_url, max_depth=5, sleeptime=0):
         explored.add(url)
 
         # Add children to queue
-        if depth > max_depth:
+        if depth >= max_depth:
             continue
         for url in links:
             queue.append((url, depth + 1))

@@ -1,4 +1,9 @@
+lib/config.py
 config.py
+calvin*
+db.p
+company_list.csv
+sql_test.txt
 
 __pycache__/
 *.pyc
